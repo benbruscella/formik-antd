@@ -1,0 +1,29 @@
+{
+  "name": "formik-antd",
+  "version": "0.0.0",
+  "description": "Ant Design Formik Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benbruscella/formik-antd.git"
+  },
+  "keywords": [
+    "Ant",
+    "Design",
+    "Formik"
+  ],
+  "author": "Ben Bruscella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benbruscella/formik-antd/issues"
+  },
+  "homepage": "https://github.com/benbruscella/formik-antd#readme",
+  "dependencies": {
+    "antd": "^3.13.2",
+    "eslint": "^5.13.0",
+    "formik": "^1.5.0"
+  }
+}
